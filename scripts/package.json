@@ -1,0 +1,10 @@
+{
+  "name": "mermaid-house-style-renderer",
+  "private": true,
+  "description": "Pinned renderer for the mermaid-house-style skill. Installed on first run by render.mjs.",
+  "type": "module",
+  "dependencies": {
+    "mermaid": "12.0.0",
+    "@mermaid-js/mermaid-cli": "12.0.0"
+  }
+}

@@ -1,0 +1,5 @@
+scripts/node_modules/
+scripts/package-lock.json
+*.png
+*.svg
+*.pdf
